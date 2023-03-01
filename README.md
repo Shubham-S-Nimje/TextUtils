@@ -3,7 +3,7 @@ TextUtils is a powerful online tool for manipulating and formatting text. With a
 <div align="center">
 <h1 align="center">Portfolio</h1>
 
-  <a href="https://shubham-s-nimje.github.io/Expensetracker/">
+  <a href="https://shubham-s-nimje.github.io/TextUtils/">
     <img src="https://raw.githubusercontent.com/Shubham-S-Nimje/portfolio/main/src/live-demo.png" alt="Demo" width="300" height="auto">
   </a>
 
