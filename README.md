@@ -1,3 +1,15 @@
+TextUtils is a powerful online tool for manipulating and formatting text. With a wide range of features, including text case conversion, character count, string manipulation, and more, TextUtils is your go-to solution for all your text editing needs.
+<br />
+<div align="center">
+<h1 align="center">Portfolio</h1>
+
+  <a href="https://shubham-s-nimje.github.io/Expensetracker/">
+    <img src="https://raw.githubusercontent.com/Shubham-S-Nimje/portfolio/main/src/live-demo.png" alt="Demo" width="300" height="auto">
+  </a>
+
+</div>
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
