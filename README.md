@@ -4,7 +4,7 @@
 <h1 align="center">Portfolio</h1>
 
   <a href="https://shubham-s-nimje.github.io/TextUtils/">
-    <img src="https://raw.githubusercontent.com/Shubham-S-Nimje/portfolio/main/src/live-demo.png" alt="Demo" width="300" height="auto">
+    <img src="https://www.a2solutions.ae/wp-content/uploads/2016/12/live-demo.png" alt="Demo" width="300" height="auto">
   </a>
 
 </div>
